@@ -101,6 +101,10 @@ h10{
 h4{
     color:blue !important;
 }
+h3{
+    color: blue;
+    margin-top:10px;
+}
 /*--Head-end--*/
 /*--Header-Starts--*/
 .logo  {
